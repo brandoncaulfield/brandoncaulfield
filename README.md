@@ -5,11 +5,11 @@ I'm Brandon.
 🔭 I have a developer youtube channel, feel free to take a look.
 [CodeWithBrandon](https://www.youtube.com/user/brandcaul)
 
-- 🤔 I’m looking for help with my snippet generators
--- [Advanced UI5 Snippet Generator](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator)(VS Code)
--- [Advanced ABAP Snippet Generator](https://github.com/brandoncaulfield/advanced-abap-snippet-generator)(VS Code)
+🤔 I’m looking for help with my snippet generators
+- [Advanced UI5 Snippet Generator](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator)(VS Code)
+- [Advanced ABAP Snippet Generator](https://github.com/brandoncaulfield/advanced-abap-snippet-generator)(VS Code)
 
-- 😄 All contributions welcome, just fork and add a pull request.
+😄 All contributions welcome, just fork and add a pull request.
 
 <!--
 **brandoncaulfield/brandoncaulfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
