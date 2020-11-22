@@ -6,8 +6,8 @@ I'm Brandon.
 [CodeWithBrandon](https://www.youtube.com/user/brandcaul)
 
 🤔 I’m looking for help with my snippet generators
-- [Advanced UI5 Snippet Generator](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator)(VS Code)
-- [Advanced ABAP Snippet Generator](https://github.com/brandoncaulfield/advanced-abap-snippet-generator)(VS Code)
+- [Advanced UI5 Snippet Generator](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator) (VS Code)
+- [Advanced ABAP Snippet Generator](https://github.com/brandoncaulfield/advanced-abap-snippet-generator) (VS Code)
 
 😄 All contributions welcome, just fork and add a pull request.
 
