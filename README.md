@@ -5,7 +5,8 @@ I'm Brandon.
 🔭 I have a developer youtube channel, feel free to take a look.
 [CodeWithBrandon](https://www.youtube.com/user/brandcaul)
 
-🤔 I’m looking for help with my snippet generators
+🤔 I’m looking for help with
+- [JavaScript Cheat Sheet](https://github.com/brandoncaulfield/javascript-cheat-sheet)
 - [Advanced UI5 Snippet Generator](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator) (VS Code)
 - [Advanced ABAP Snippet Generator](https://github.com/brandoncaulfield/advanced-abap-snippet-generator) (VS Code)
 
