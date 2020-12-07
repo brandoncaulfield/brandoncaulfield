@@ -2,7 +2,7 @@
 
 I'm Brandon.
 
-🔭 I have a developer youtube channel that's been featured on [freeCodeCamp](https://www.freecodecamp.org/), feel free to take a look -> [CodeWithBrandon](https://www.youtube.com/user/brandcaul)
+🔭 I have a developer youtube channel, [CodeWithBrandon](https://www.youtube.com/user/brandcaul), that's been featured on [freeCodeCamp](https://www.freecodecamp.org/).
 
 🤔 I’m looking for help with
 - [JavaScript Cheat Sheet](https://github.com/brandoncaulfield/javascript-cheat-sheet)
