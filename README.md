@@ -4,7 +4,7 @@ I'm Brandon.
 
 🔭 I have a developer youtube channel, [CodeWithBrandon](https://www.youtube.com/user/brandcaul), that's been featured on [freeCodeCamp](https://www.freecodecamp.org/).
 
-📕 I also wrote a book, [JavaScript For ABAP Developers](https://www.sap-press.com/javascript-for-abap-developers_5359/). 
+📚 I also wrote a book, [JavaScript For ABAP Developers](https://www.sap-press.com/javascript-for-abap-developers_5359/). 
 
 🤔 I’m looking for help with
 - [JavaScript Cheat Sheet](https://github.com/brandoncaulfield/javascript-cheat-sheet)
