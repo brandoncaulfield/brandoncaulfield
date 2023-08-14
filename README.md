@@ -7,7 +7,7 @@ I'm Brandon.
 📚 I also wrote a book, [JavaScript For ABAP Developers](https://www.sap-press.com/javascript-for-abap-developers_5359/). 
 
 🤔 I’m looking for help with
-- [JavaScript Cheat Sheet](https://github.com/brandoncaulfield/javascript-cheat-sheet)
+- [JARVIS](https://github.com/brandoncaulfield/jarvis) (AI CLI)
 - [Advanced UI5 Snippet Generator](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator) (VS Code)
 - [Advanced ABAP Snippet Generator](https://github.com/brandoncaulfield/advanced-abap-snippet-generator) (VS Code)
 
