@@ -6,13 +6,6 @@ I'm Brandon.
 
 📚 I also wrote a book, [JavaScript For ABAP Developers](https://www.sap-press.com/javascript-for-abap-developers_5359/). 
 
-🤔 I’m looking for help with
-- [JARVIS](https://github.com/brandoncaulfield/jarvis) (AI CLI)
-- [Advanced UI5 Snippet Generator](https://github.com/brandoncaulfield/advanced-ui5-snippet-generator) (VS Code)
-- [Advanced ABAP Snippet Generator](https://github.com/brandoncaulfield/advanced-abap-snippet-generator) (VS Code)
-
-😄 All contributions welcome.
-
 <!--
 **brandoncaulfield/brandoncaulfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
